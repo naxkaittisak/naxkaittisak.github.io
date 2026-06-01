@@ -7,8 +7,8 @@
 
 ### <Explanation>
 * "Full-stack development enables developers to build complete, end-to-end web applications independently. The front-end manages user experience and interface using technologies like React and TypeScript, while the back-end handles server logic, business rules, and database communication. This holistic approach improves team communication, accelerates development cycles, and allows for more efficient troubleshooting across the entire application stack.", **<ChatGPT 4o>**
-* "A full-stack architecture bridges the gap between client-side interfaces and server-side infrastructure. By understanding both realms, a full-stack developer can optimize data flow, implement secure API endpoints, and ensure seamless integration between technologies like front-end frameworks and relational databases. This versatility is highly valuable for agile software development and building scalable products.", **<Google Gemini>**
+* "A full-stack architecture bridges the gap between client-side interfaces and server-side infrastructure. By understanding both realms, a full-stack developer can optimize data flow, implement secure API endpoints, and ensure seamless integration between technologies like front-end frameworks and relational databases. This versatility is highly valuable for agile software development and building scalable products.", **<Gemini>**
 
 ### <References>
-* IBM Career Guide: Full-Stack Development
-* AWS Cloud Education: What is Full-Stack?
+* IBM Career Guide: Full-Stack Development (https://www.postgresql.org/about/)
+* AWS Cloud Education: What is Full-Stack? (https://www.redhat.com/en/topics/data-management/what-is-a-relational-database)
