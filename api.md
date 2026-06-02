@@ -6,9 +6,9 @@
 * **Thai:** ช่องทางหรือตัวกลางที่จะคอยเชื่อมต่อระหว่างแอปพลิเคชันหนึ่งไปยังอีกแอปพลิเคชันหนึ่ง หรือเชื่อมหน้าเว็บ (Front-end) ให้สามารถส่ง-รับข้อมูลกับระบบหลังบ้านและฐานข้อมูล (Back-end) ได้อย่างสะดวกและปลอดภัย เปรียบเหมือนบริกรในร้านอาหารที่คอยรับออเดอร์จากลูกค้าไปบอกห้องครัวนั่นเองครับ
 
 ### <Explanation>
-* "An Application Programming Interface (API) acts as a secure data bridge between isolated software components. In modern web architectures, APIs (particularly RESTful APIs) use standard protocols like HTTP to transfer data, commonly formatted in JSON. This abstraction allows developers to integrate third-party services, connect mobile applications to servers, and separate user interfaces from core business logic smoothly.", **(ChatGPT 4o)**
-* "APIs define the methods and data structures that programmers can use to request services from an operating system, database, or external web service. By providing a clear contract for communication, APIs simplify software integration, promote code reusability, and enhance security by exposing only necessary functionalities while keeping the underlying backend implementation hidden.", **(Google Gemini)**
+* "อินเตอร์เฟสโปรแกรมประยุกต์ หรือ API ทำหน้าที่เป็นสะพานเชื่อมข้อมูลที่ปลอดภัยระหว่างส่วนประกอบซอฟต์แวร์ที่แยกจากกัน ในสถาปัตยกรรมเว็บสมัยใหม่ API (โดยเฉพาะ RESTful APIs) จะใช้โปรโตคอลมาตรฐานเช่น HTTP ในการส่งผ่านข้อมูล ซึ่งมักจะอยู่ในรูปแบบ JSON การจัดระบบแบบนี้ช่วยให้นักพัฒนาสามารถรวมบริการจากภายนอก เชื่อมต่อแอปพลิเคชันมือถือเข้ากับเซิร์ฟเวอร์ และแยกส่วนติดต่อผู้ใช้งานออกจากตรรกะทางธุรกิจหลักได้อย่างราบรื่น", **(ChatGPT 4o)**
+* "API กำหนดวิธีการและโครงสร้างข้อมูลที่โปรแกรมเมอร์สามารถใช้เพื่อขอรับบริการจากระบบปฏิบัติการ ฐานข้อมูล หรือบริการเว็บภายนอก การจัดทำข้อกำหนดที่ชัดเจนสำหรับการสื่อสารนี้ ช่วยให้การรวมซอฟต์แวร์ทำได้ง่ายขึ้น ส่งเสริมการนำโค้ดกลับมาใช้ใหม่ และเพิ่มความปลอดภัยโดยการเปิดเผยเฉพาะฟังก์ชันที่จำเป็น ในขณะที่ซ่อนการทำงานเบื้องหลังของระบบหลังบ้านเอาไว้", **(Google Gemini)**
 
 ### <References>
-* MuleSoft Integration Tech Terms: What is an API? (https://www.mulesoft.com/resources/api/what-is-an-api)
-* Microsoft Learn: API design fundamentals (https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+* [MuleSoft Integration Tech Terms: What is an API?](https://www.mulesoft.com/resources/api/what-is-an-api)
+* [Microsoft Learn: API design fundamentals](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
