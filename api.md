@@ -2,7 +2,7 @@
 
 ### <Definition>
 * **English (Source 1 - AWS):** "API stands for Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses."
-* **English (Source 2 - Red Hat):** "An API is a set of definitions and protocols for building and integrating application software. It’s sometimes referred to as a contract between an information provider and an information user."
+* **English (Source 2 - Red Hat):** "API stands for application programming interface, which is a set of definitions and protocols for building and integrating application software."
 * **Thai:** ช่องทางหรือตัวกลางที่จะคอยเชื่อมต่อระหว่างแอปพลิเคชันหนึ่งไปยังอีกแอปพลิเคชันหนึ่ง หรือเชื่อมหน้าเว็บ (Front-end) ให้สามารถส่ง-รับข้อมูลกับระบบหลังบ้านและฐานข้อมูล (Back-end) ได้อย่างสะดวกและปลอดภัย เปรียบเหมือนบริกรในร้านอาหารที่คอยรับออเดอร์จากลูกค้าไปบอกห้องครัวนั่นเองครับ
 
 ### <Explanation>
