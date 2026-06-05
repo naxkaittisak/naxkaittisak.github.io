@@ -1,8 +1,8 @@
 # API (Application Programming Interface)
 
 ### <Definition>
-* **English (Source 1 - MuleSoft):** "API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other."
-* **English (Source 2 - Microsoft):** "An API is a set of definitions and protocols for building and integrating application software. It allows your product or service to communicate with other products and services."
+* **English (Source 1 - MuleSoft):** "API is the acronym for Application Programming Interface, which is a software intermediary that allows two applications to talk to each other. Each time you use an app like Facebook, send an instant message, or check the weather on your phone, you're using an API."
+* **English (Source 2 - Microsoft):** "An API is a set of definitions and protocols for building and integrating application software. It's sometimes referred to as a contract between an information provider and an information user—establishing the content required from the consumer (the call) and the response required from the producer."
 * **Thai:** ช่องทางหรือตัวกลางที่จะคอยเชื่อมต่อระหว่างแอปพลิเคชันหนึ่งไปยังอีกแอปพลิเคชันหนึ่ง หรือเชื่อมหน้าเว็บ (Front-end) ให้สามารถส่ง-รับข้อมูลกับระบบหลังบ้านและฐานข้อมูล (Back-end) ได้อย่างสะดวกและปลอดภัย เปรียบเหมือนบริกรในร้านอาหารที่คอยรับออเดอร์จากลูกค้าไปบอกห้องครัวนั่นเองครับ
 
 ### <Explanation>
@@ -10,5 +10,5 @@
 * "API กำหนดวิธีการและโครงสร้างข้อมูลที่โปรแกรมเมอร์สามารถใช้เพื่อขอรับบริการจากระบบปฏิบัติการ ฐานข้อมูล หรือบริการเว็บภายนอก การจัดทำข้อกำหนดที่ชัดเจนสำหรับการสื่อสารนี้ ช่วยให้การรวมซอฟต์แวร์ทำได้ง่ายขึ้น ส่งเสริมการนำโค้ดกลับมาใช้ใหม่ และเพิ่มความปลอดภัยโดยการเปิดเผยเฉพาะฟังก์ชันที่จำเป็น ในขณะที่ซ่อนการทำงานเบื้องหลังของระบบหลังบ้านเอาไว้", **(Google Gemini)**
 
 ### <References>
-* [MuleSoft Integration Tech Terms: What is an API?](https://www.mulesoft.com/resources/api/what-is-an-api)
-* [Microsoft Learn: API design fundamentals](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+* [MuleSoft - What is an API?](https://www.mulesoft.com/resources/api/what-is-an-api)
+* [Microsoft Azure - What is an API?](https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design)
