@@ -2,7 +2,7 @@
 
 ### <Definition>
 * **English (Source 1 - Coursera):** "A full-stack developer helps build and maintain both the front-end and the back-end of a website."
-* **English (Source 2 - AWS):** "Full stack development is the process of developing both the frontend and backend of applications."
+* **English (Source 2 - AWS):** "Full stack development is the process of developing both the frontend and backend of applications. Any application has a frontend (user-facing) component and a backend (database and logic) component. The frontend contains the user interface and code related to user interactions with the application. The backend contains all the code required for the application to run, including integrations with data systems, communicating with other applications, and processing data."
 * **Thai:** การพัฒนาเว็บหรือแอปพลิเคชันแบบครบวงจร โดยผู้พัฒนา (Full-stack Developer) จะต้องมีความรู้ความสามารถในการเขียนโค้ดและจัดการระบบทั้งในส่วนหน้าบ้าน (Front-end) ที่ผู้ใช้มองเห็น และส่วนหลังบ้าน (Back-end) รวมถึงระบบฐานข้อมูลที่อยู่เบื้องหลังทั้งหมดครับ
 
 ### <Explanation>
