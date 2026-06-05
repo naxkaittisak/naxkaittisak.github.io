@@ -2,7 +2,7 @@
 
 ### <Definition>
 * **English (Source 1 - PostgreSQL Official):** "PostgreSQL is a powerful, open source object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads."
-* **English (Source 2 - IBM):** "PostgreSQL is an open source object-relational database management system (ORDBMS) that is known for its reliability, data integrity, and correctness. It is free to use and highly customizable, allowing developers to build complex applications and manage large amounts of data securely."
+* **English (Source 2 - IBM):** "PostgreSQL, commonly pronounced “Post-GRES,” is an open source database that has a strong reputation for its reliability, flexibility and support of open technical standards."
 * **Thai:** ระบบจัดการฐานข้อมูลเชิงสัมพันธ์ (RDBMS) แบบ Open-source ที่มีความเสถียรและทรงพลังมาก มีความโดดเด่นในเรื่องความปลอดภัย รองรับข้อมูลขนาดใหญ่ และเข้ากันได้ดีกับเครื่องมือพัฒนาเว็บสมัยใหม่ เหมาะกับการใช้เป็นคลังข้อมูลหลักของโปรเจกต์ระบบจัดการร้านค้าครับ
 
 ### <Explanation>
@@ -11,4 +11,4 @@
 
 ### <References>
 * [PostgreSQL Official Documentation](https://www.postgresql.org/about/)
-* [IBM - What is PostgreSQL?](https://www.ibm.com/topics/postgresql)
+* [IBM - What is PostgreSQL?](https://www.ibm.com/think/topics/postgresql)
