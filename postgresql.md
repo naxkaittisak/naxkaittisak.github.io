@@ -1,8 +1,8 @@
 # PostgreSQL
 
 ### <Definition>
-* **English (Source 1 - Wikipedia):** "PostgreSQL is a free and open-source relational database management system emphasizing extensibility and SQL compliance."
-* **English (Source 2 - AWS):** "PostgreSQL is an enterprise-class, open-source relational database that supports both SQL and JSON querying."
+* **English (Source 1 - PostgreSQL Official):** "PostgreSQL is a powerful, open-source object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads."
+* **English (Source 2 - AWS):** "PostgreSQL is an enterprise-class, open-source relational database that supports both SQL and JSON querying. It is highly stable and backed by more than 25 years of open-source community development, earning it a strong reputation for reliability, architecture, and correctness."
 * **Thai:** ระบบจัดการฐานข้อมูลเชิงสัมพันธ์ (RDBMS) แบบ Open-source ที่มีความเสถียรและทรงพลังมาก มีความโดดเด่นในเรื่องความปลอดภัย รองรับข้อมูลขนาดใหญ่ และเข้ากันได้ดีกับเครื่องมือพัฒนาเว็บสมัยใหม่ เหมาะกับการใช้เป็นคลังข้อมูลหลักของโปรเจกต์ระบบจัดการร้านค้าครับ
 
 ### <Explanation>
@@ -10,5 +10,5 @@
 * "ในฐานะระบบฐานข้อมูลแบบวัตถุ-เชิงสัมพันธ์ PostgreSQL ได้รวมเอาความน่าเชื่อถือของรูปแบบฐานข้อมูลเชิงสัมพันธ์แบบดั้งเดิมเข้ากับความยืดหยุ่นของฟีเจอร์การเขียนโปรแกรมเชิงวัตถุ มีการทำดัชนีขั้นสูง การควบคุมการทำงานพร้อมกัน (MVCC) และความสามารถในการปรับแต่งสูง สิ่งนี้ทำให้ PostgreSQL เป็นตัวเลือกที่นักพัฒนาต้องการเมื่อต้องทำงานกับปริมาณข้อมูลที่หนาแน่น การวิเคราะห์ข้อมูลที่ซับซ้อน และเว็บแอปพลิเคชันแบบ Full-stack สมัยใหม่", **(Google Gemini)**
 
 ### <References>
-* [Wikipedia - PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)
+* [PostgreSQL Official Documentation](https://www.postgresql.org/about/)
 * [AWS - What is PostgreSQL?](https://aws.amazon.com/what-is/postgresql/)
