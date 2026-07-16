@@ -14,5 +14,8 @@
 * [คำศัพท์ที่ 1: Full-stack Development](https://naxkaittisak.github.io/full-stack)
 * [คำศัพท์ที่ 2: PostgreSQL Database](https://naxkaittisak.github.io/postgresql)
 * [คำศัพท์ที่ 3: API (Application Programming Interface)](https://naxkaittisak.github.io/api)
+* [คำศัพท์ที่ 4: Dashboard (Data Visualization)](https://naxkaittisak.github.io/dashboard)
+* [คำศัพท์ที่ 5: CRUD Operations (Data Management)](https://naxkaittisak.github.io/crud)
+* [คำศัพท์ที่ 6: Leave Balance (HR & System Management)](https://naxkaittisak.github.io/leave-balance)
 ## Quality Attribute
 * [Security](https://naxkaittisak.github.io/security)
