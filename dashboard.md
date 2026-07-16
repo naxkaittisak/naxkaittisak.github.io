@@ -2,7 +2,7 @@
 
 ### <Definition>
 * **English (Source 1 - Dictionary.com):** "A user interface or web page that gives a current summary, usually in graphic, easy-to-read form, of key information relating to progress and performance."
-* **English (Source 2 - Techopedia):** "A dashboard is a visual interface that provides at-a-glance views of key performance indicators relevant to a particular objective or business process."
+* **English (Source 2 - Scrum.org):** "A dashboard is a user interface that organizes and presents information in a way that is easy to read."
 * **Thai:** แผงควบคุมแสดงผลข้อมูลที่สรุปและรวบรวมตัวบ่งชี้ประสิทธิภาพหลัก (KPIs) และข้อมูลสำคัญต่าง ๆ มาไว้ในหน้าจอเดียวในรูปแบบของกราฟหรือตาราง เพื่อให้ผู้ใช้งานหรือนักพัฒนาสามารถมองเห็นภาพรวม วิเคราะห์ข้อมูล และติดตามสถานะความเคลื่อนไหวของระบบจัดการร้านค้าได้อย่างสะดวกและรวดเร็วครับ
 
 ### <Explanation>
@@ -11,4 +11,4 @@
 
 ### <References>
 * [Dictionary.com - Dashboard Definition](https://www.dictionary.com/browse/dashboard)
-* [Techopedia - What is a Dashboard?](https://www.techopedia.com/definition/26305/dashboard)
+* [Scrum.org - What is a Dashboard?](https://www.scrum.org/resources/what-is-a-dashboard)
