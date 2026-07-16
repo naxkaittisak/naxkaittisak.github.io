@@ -1,8 +1,8 @@
 # Leave Balance
 
 ### <Definition>
-* **English (Source 1 - The Free Dictionary):** "Leave balance represents the period of time that an employee is permitted to be absent from work while maintaining status as an employee."
-* **English (Source 2 - Gartner Glossary):** "Leave balance tracks the total amount of accrued time off available to employees for various types of absence, ensuring accurate workforce management."
+* **English (Source 1 - BambooHR):** "Leave balance is the amount of accrued time off an employee has available to use for vacation, sick leave, or other personal time."
+* **English (Source 2 - Clockify):** "Leave balance shows the number of remaining time off hours or days that an employee is entitled to take within a specific period."
 * **Thai:** Leave Balance หมายถึง ยอดรวมของวันหยุดหรือวันลาคงเหลือที่พนักงานสะสมไว้และมีสิทธิ์ใช้ได้ในช่วงเวลาที่กำหนด (เช่น วันลากิจ วันลาป่วย หรือวันลาพักร้อนประจำปี) ซึ่งเป็นฟังก์ชันสำคัญในระบบบริหารจัดการทรัพยากรบุคคล (HRMS) เพื่อใช้ในการคำนวณ หักลบ และแสดงผลสิทธิ์การลาของพนักงานแต่ละคนได้อย่างถูกต้องครับ
 
 ### <Explanation>
@@ -10,5 +10,5 @@
 * "ในแง่ของการพัฒนาซอฟต์แวร์และสถาปัตยกรรมระบบ ข้อมูล Leave Balance มักถูกเก็บไว้ในฐานข้อมูลเชิงสัมพันธ์และมีการผูกตรรกะทางธุรกิจ (Business Logic) ร่วมกับเงื่อนไขการทำงานของบริษัท เช่น ข้อกำหนดการยกยอดวันลาไปปีถัดไป (Carry-over Policy) ซึ่งหน้าบ้านจะทำการดึงข้อมูลนี้ผ่าน API มาแสดงผลบนหน้าจอแดชบอร์ดให้พนักงานสามารถตรวจสอบสิทธิ์ของตนเองได้แบบเรียลไทม์", **(Google Gemini)**
 
 ### <References>
-* [The Free Dictionary - Leave Definition](https://legal-dictionary.thefreedictionary.com/leave)
-* [Gartner - HR Glossary and Workforce Management](https://www.gartner.com/en/human-resources/glossary/workforce-management)
+* [BambooHR - Time Off Glossary](https://www.bamboohr.com/glossary/time-off)
+* [Clockify - Leave Management Terms](https://clockify.me/glossary/leave-management)
