@@ -1,14 +1,14 @@
-# Leave Balance
+# Node.js
 
 ### <Definition>
-* **English (Source 1 - Oxford Dictionaries):** "Leave balance refers to an official period of time when you are allowed to be away from work."
-* **English (Source 2 - Cambridge Dictionary):** "Leave balance shows the amount of time that an employee is allowed to spend away from work before it expires."
-* **Thai:** Leave Balance หมายถึง ยอดรวมของวันหยุดหรือวันลาคงเหลือที่พนักงานสะสมไว้และมีสิทธิ์ใช้ได้ในช่วงเวลาที่กำหนด (เช่น วันลากิจ วันลาป่วย หรือวันลาพักร้อนประจำปี) ซึ่งเป็นฟังก์ชันสำคัญในระบบบริหารจัดการทรัพยากรบุคคล (HRMS) เพื่อใช้ในการคำนวณ หักลบ และแสดงผลสิทธิ์การลาของพนักงานแต่ละคนได้อย่างถูกต้องครับ
+* **English (Source 1 - Node.js Official):** "Node.js is a free, open-source, cross-platform JavaScript runtime environment that lets developers write command-line tools and server-side scripts outside of a browser."
+* **English (Source 2 - W3Schools):** "Node.js is an open source server environment that allows you to run JavaScript on the server."
+* **Thai:** Node.js คือ Runtime Environment แบบ Open-source และ Cross-platform ที่ช่วยให้เหล่านักพัฒนาสามารถรันโค้ด JavaScript ที่ฝั่งเซิร์ฟเวอร์ (Server-side) ได้โดยไม่ต้องพึ่งพาเว็บเบราว์เซอร์ ทำให้นิยมนำมาใช้ในการสร้าง Web Application ที่ต้องการความเร็วสูง รองรับการทำงานแบบ異步 (Asynchronous) และการจัดการฐานข้อมูลหลังบ้าน เช่น PostgreSQL ได้อย่างมีประสิทธิภาพครับ
 
 ### <Explanation>
-* "การคำนวณ Leave Balance ที่มีประสิทธิภาพเป็นสิ่งจำเป็นอย่างยิ่งในการบริหารจัดการงานบุคคล โดยระบบจะทำการอัปเดตข้อมูลโดยอัตโนมัติเมื่อมีการอนุมัติคำขอลา (Leave Request) ช่วยลดภารกิจในการทำงานเอกสารของฝ่าย HR และป้องกันความผิดพลาดในการคำนวณวันลาสะสมตามปีการทำงานของพนักงาน", **(ChatGPT 4o)**
-* "ในแง่ของการพัฒนาซอฟต์แวร์และสถาปัตยกรรมระบบ ข้อมูล Leave Balance มักถูกเก็บไว้ในฐานข้อมูลเชิงสัมพันธ์และมีการผูกตรรกะทางธุรกิจ (Business Logic) ร่วมกับเงื่อนไขการทำงานของบริษัท เช่น ข้อกำหนดการยกยอดวันลาไปปีถัดไป (Carry-over Policy) ซึ่งหน้าบ้านจะทำการดึงข้อมูลนี้ผ่าน API มาแสดงผลบนหน้าจอแดชบอร์ดให้พนักงานสามารถตรวจสอบสิทธิ์ของตนเองได้แบบเรียลไทม์", **(Google Gemini)**
+* "Node.js ทำงานบน V8 JavaScript Engine ของ Google Chrome ซึ่งมีประสิทธิภาพในการประมวลผลโค้ดที่รวดเร็วมาก โดยใช้สถาปัตยกรรมแบบ Event-driven และ Non-blocking I/O ทำให้สามารถรองรับการเชื่อมต่อจากผู้ใช้งานจำนวนมากพร้อม ๆ กันได้โดยไม่เกิดอาการค้าง เหมาะสำหรับการพัฒนา API และระบบหลังบ้านของซอฟต์แวร์จัดการร้านค้า", **(ChatGPT 4o)**
+* "จุดเด่นที่สำคัญอีกประการของ Node.js คือระบบจัดการแพ็กเกจที่เรียกว่า NPM (Node Package Manager) ซึ่งเป็นคลังเก็บไลบรารีและโมดูลซอฟต์แวร์ที่ใหญ่ที่สุดในโลก ช่วยให้ผู้พัฒนาสามารถเลือกใช้เครื่องมือเสริมต่าง ๆ เข้ามาติดตั้งและขับเคลื่อนระบบ Full-stack ร่วมกับ React และ TypeScript ได้อย่างสะดวกและรวดเร็ว", **(Google Gemini)**
 
 ### <References>
-* [Oxford Dictionaries - Leave Definition](https://www.oxfordlearnersdictionaries.com/definition/english/leave_2)
-* [Cambridge Dictionary - Leave Definition](https://dictionary.cambridge.org/dictionary/english/leave)
+* [Node.js - About Node.js](https://nodejs.org/en/about)
+* [W3Schools - Node.js Introduction](https://www.w3schools.com/nodejs/nodejs_intro.asp)
