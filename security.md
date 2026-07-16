@@ -12,5 +12,5 @@
 ### <References>
 * [Wikipedia - List of system quality attributes](https://en.wikipedia.org/wiki/List_of_system_quality_attributes)
 * [NIST - security attribute](https://csrc.nist.gov/glossary/term/security_attribute)
-* ## ผู้ร่วมจัดทำ
+## ผู้ร่วมจัดทำ
 * [นายภราดา แสงปิติ (เอ็ม)](https://parada-em.github.io/Security.html)
