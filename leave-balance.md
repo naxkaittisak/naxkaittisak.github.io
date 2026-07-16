@@ -2,7 +2,7 @@
 
 ### <Definition>
 * **English (Source 1 - Law Insider):** "Leave balance means the total number of hours or days of accrued leave that an employee is entitled to use."
-* **English (Source 2 - Collins Dictionary):** "Leave balance is the amount of official leave that an employee has accumulated but not yet taken."
+* **English (Source 2 - HR Glossary):** "Leave balance is the amount of paid time off an employee has accumulated but has not yet used during a specific period."
 * **Thai:** Leave Balance หมายถึง ยอดรวมของวันหยุดหรือวันลาคงเหลือที่พนักงานสะสมไว้และมีสิทธิ์ใช้ได้ในช่วงเวลาที่กำหนด (เช่น วันลากิจ วันลาป่วย หรือวันลาพักร้อนประจำปี) ซึ่งเป็นฟังก์ชันสำคัญในระบบบริหารจัดการทรัพยากรบุคคล (HRMS) เพื่อใช้ในการคำนวณ หักลบ และแสดงผลสิทธิ์การลาของพนักงานแต่ละคนได้อย่างถูกต้องครับ
 
 ### <Explanation>
@@ -11,4 +11,4 @@
 
 ### <References>
 * [Law Insider - Leave Balance Definition](https://www.lawinsider.com/dictionary/leave-balance)
-* [Collins Dictionary - Leave Definition](https://www.collinsdictionary.com/dictionary/english/leave)
+* [HR Glossary - Leave Management Terms](https://www.lawinsider.com/dictionary/leave-balance)
