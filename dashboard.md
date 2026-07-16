@@ -1,8 +1,8 @@
 # Dashboard
 
 ### <Definition>
-* **English (Source 1 - TechTarget):** "A dashboard is a data management tool that visually tracks, analyzes and displays key performance indicators (KPIs), metrics and key data points to monitor the health of a business, department or specific process."
-* **English (Source 2 - GeeksforGeeks):** "A dashboard is a visual interface that provides at-a-glance views of key performance indicators (KPIs) and relevant data points for a specific business process or objective."
+* **English (Source 1 - Dictionary.com):** "A dashboard is a user interface that organizes and presents information in a way that is easy to read."
+* **English (Source 2 - Merriam-Webster):** "A dashboard is a web page that gives multiple user interfaces or access to information."
 * **Thai:** แผงควบคุมแสดงผลข้อมูลที่สรุปและรวบรวมตัวบ่งชี้ประสิทธิภาพหลัก (KPIs) และข้อมูลสำคัญต่าง ๆ มาไว้ในหน้าจอเดียวในรูปแบบของกราฟหรือตาราง เพื่อให้ผู้ใช้งานหรือนักพัฒนาสามารถมองเห็นภาพรวม วิเคราะห์ข้อมูล และติดตามสถานะความเคลื่อนไหวของระบบจัดการร้านค้าได้อย่างสะดวกและรวดเร็วครับ
 
 ### <Explanation>
@@ -10,5 +10,5 @@
 * "อินเทอร์เฟซของแดชบอร์ดที่ดีจะเน้นการออกแบบที่ใช้งานง่าย (User-friendly) รองรับการอัปเดตข้อมูลแบบเรียลไทม์ และสามารถคัดกรองข้อมูล (Filtering) ตามช่วงเวลาหรือหมวดหมู่ที่ต้องการได้ ทำให้การนำเสนอข้อมูลที่มีความซับซ้อนกลายเป็นเรื่องที่เข้าใจง่ายและช่วยในการตัดสินใจทางธุรกิจได้อย่างแม่นยำ", **(Google Gemini)**
 
 ### <References>
-* [TechTarget - What is a Dashboard?](https://www.techtarget.com/searchbusinessanalytics/definition/dashboard)
-* [GeeksforGeeks - Dashboard Concept](https://www.geeksforGeeks.org/what-is-a-dashboard/)
+* [Dictionary.com - Dashboard Definition](https://www.dictionary.com/browse/dashboard)
+* [Merriam-Webster - Dashboard Definition](https://www.merriam-webster.com/dictionary/dashboard)
