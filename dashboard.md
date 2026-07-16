@@ -2,7 +2,7 @@
 
 ### <Definition>
 * **English (Source 1 - Dictionary.com):** "A user interface or web page that gives a current summary, usually in graphic, easy-to-read form, of key information relating to progress and performance."
-* **English (Source 2 - TechTerms):** "A dashboard is a user interface that organizes and presents information in a way that is easy to read."
+* **English (Source 2 - TechTerms):** "Dashboard was a user interface feature introduced by Apple with Mac OS X 10.4 Tiger in 2005. It provided quick access to small, single-purpose applications called widgets."
 * **Thai:** แผงควบคุมแสดงผลข้อมูลที่สรุปและรวบรวมตัวบ่งชี้ประสิทธิภาพหลัก (KPIs) และข้อมูลสำคัญต่าง ๆ มาไว้ในหน้าจอเดียวในรูปแบบของกราฟหรือตาราง เพื่อให้ผู้ใช้งานหรือนักพัฒนาสามารถมองเห็นภาพรวม วิเคราะห์ข้อมูล และติดตามสถานะความเคลื่อนไหวของระบบจัดการร้านค้าได้อย่างสะดวกและรวดเร็วครับ
 
 ### <Explanation>
