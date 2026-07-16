@@ -1,8 +1,8 @@
 # Node.js
 
 ### <Definition>
-* **English (Source 1 - Node.js Official):** "Node.js is an open-source JavaScript runtime environment."
-* **English (Source 2 - W3Schools):** "Node.js is an open source server environment."
+* **English (Source 1 - Node.js Official):** "As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications."
+* **English (Source 2 - W3Schools):** "Node.js is an open source server environment that allows you to run JavaScript on the server."
 * **Thai:** Node.js คือ Runtime Environment แบบ Open-source และ Cross-platform ที่ช่วยให้เหล่านักพัฒนาสามารถรันโค้ด JavaScript ที่ฝั่งเซิร์ฟเวอร์ (Server-side) ได้โดยไม่ต้องพึ่งพาเว็บเบราว์เซอร์ ทำให้นิยมนำมาใช้ในการสร้าง Web Application ที่ต้องการความเร็วสูง รองรับการทำงานแบบ異步 (Asynchronous) และการจัดการฐานข้อมูลหลังบ้าน เช่น PostgreSQL ได้อย่างมีประสิทธิภาพครับ
 
 ### <Explanation>
