@@ -10,7 +10,7 @@
 
 ## รูปภาพโปรไฟล์
 ![รูปโปรไฟล์ของฉัน](profile.jpg)
-## คลังคำศัพท์ด้าน IT ที่น่าสนใจ (Keywords)
+## IT Keywords Project
 * [คำศัพท์ที่ 1: Full-stack Development](https://naxkaittisak.github.io/full-stack)
 * [คำศัพท์ที่ 2: PostgreSQL Database](https://naxkaittisak.github.io/postgresql)
 * [คำศัพท์ที่ 3: API (Application Programming Interface)](https://naxkaittisak.github.io/api)
