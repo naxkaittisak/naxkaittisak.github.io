@@ -14,5 +14,5 @@
 * [คำศัพท์ที่ 1: Full-stack Development](https://naxkaittisak.github.io/full-stack)
 * [คำศัพท์ที่ 2: PostgreSQL Database](https://naxkaittisak.github.io/postgresql)
 * [คำศัพท์ที่ 3: API (Application Programming Interface)](https://naxkaittisak.github.io/api)
-* ## Quality Attribute
+## Quality Attribute
 * [Security](https://naxkaittisak.github.io/security)
