@@ -16,5 +16,7 @@
 * [คำศัพท์ที่ 3: API (Application Programming Interface)](https://naxkaittisak.github.io/api)
 * [คำศัพท์ที่ 4: Dashboard (Data Visualization)](https://naxkaittisak.github.io/dashboard)
 * [คำศัพท์ที่ 5: Node.js (สภาพแวดล้อมรันไทม์จาวาสคริปต์)](https://naxkaittisak.github.io/node-js)
+* ## โครงการ / กิจกรรม
+* [หน้าเพจกิจกรรม: เกียรติศักดิ์ นุ่มอ่อน 👨‍💼](https://naxkaittisak.github.io/project)
 ## Quality Attribute
 * [Security](https://naxkaittisak.github.io/security)
